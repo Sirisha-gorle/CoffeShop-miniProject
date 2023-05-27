@@ -1,2 +1,2 @@
-# CoffeShop-miniProject
+# CoffeeShop-miniProject
 Coffee-Shop : WebSite
