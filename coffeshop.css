@@ -1,0 +1,100 @@
+body{
+	margin:0px 0px 0px 0px;
+}
+
+.header-class{
+	position:fixed;
+	top:0px;
+	width:100%;
+	height:100px;
+	background-color:#0a2d42 ;
+	z-index:100;
+
+}
+.img-class{
+	height:60px;
+	float:left;
+	position:absolute;
+	margin:5px 0px 10px 20px;
+
+}
+.navi-class{
+	height:100%;
+	float:right;
+	position:relative;
+	bottom: 20px;
+	font-family:"Helvetica Neue";
+	font-size: 22px;
+	margin:0px 40px 20px 20px;
+
+}
+.img-li{
+	color:white;
+	font-family:"Helvetica Neue";
+	margin:0px 10px 0px 10px;
+}
+.img-li:hover{
+	background-color: lightblue;
+}
+
+p{ 
+	position:relative;
+	top:50px;
+	bottom: 0px;
+	left:15px;
+	font-family:"Helvetica Neue";
+	font-weight:bold;
+	font-size: 18px;
+	color: white;
+}
+.site-content{
+	position: absolute;
+	top:78px;
+	width:100%;
+}
+.image-content{
+	background-image:url("background-image.jpg") ;
+	height:700px;
+	width:100%;
+	text-align:center;
+}
+.quote{
+	color:white;
+	font-family: "Helvetica Neueu";
+	position:relative;
+	top:10%;
+}
+.card-list{
+	width:100%;
+}
+
+#product{
+	text-align:center;
+}
+
+.card{
+	width:22%;
+	padding:1.5%;
+	heigh:300px;
+	float:left;
+	text-align:center;
+}
+
+.card img{
+	width:100%;
+}
+
+.order-section{
+	width:100%;
+	margin:0 auto;
+}
+
+#order{
+	text-align: center;
+}
+
+input{
+	display: block;
+	margin:10px auto;
+	padding:10px;
+}
